@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #11324D;
+}
+h2{
+    
+    color: white;
+}
+.container{
+    margin: 10px;
+    padding-top: 40px;
+    display: grid;
+    place-items: center;
+    color: white;
+}
+.container a{
+    color: cyan;
+    font-size: 50px;
+}
+.container ul li{
+    font-size: 30px;
+}
+.sect{
+    display: grid;
+    place-items: center;
+}
+.sect a{
+    color: cyan;
+    font-size: 50px;
+}
+.sect img{
+    
+    width: 90%;
+    height: 512px;
+}
